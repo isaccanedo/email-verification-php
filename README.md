@@ -1,2 +1,2 @@
 # email-verification-php
-user email verification php source code. You can visit the following url for more information
+código-fonte php de verificação de e-mail do usuário. Você pode visitar o seguinte url para obter mais informações
